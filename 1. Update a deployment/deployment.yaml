@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: website
-        image: nfranssens/simple-website:v1
+        image: nfranssens/simple-website:v2
         ports:
         - containerPort: 80
 ---
